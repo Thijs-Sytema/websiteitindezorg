@@ -3,9 +3,11 @@ body{
 }
 
 header{
-  background-color:rgb(255, 255, 255);
+  background-color:rgb(76, 0, 255);
   height:200px;
-}
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  }
 
 nav{
   float:left;
@@ -15,7 +17,7 @@ nav{
 }
 
 aside{
-  background-color:#C5FFF6;
+  background-color:rgb(255, 255, 255);
 }
 
 article{  
