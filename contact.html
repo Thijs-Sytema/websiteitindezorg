@@ -1,17 +1,23 @@
 <form action="contactus.php" method="post">
+<h1>Contact</h1>
 
+<p>Mocht u nog vragen hebben over het onderwerp IT in de zorg, dan kunt u altijd uw contactgegevens achterlaten. Wij zullen dan zo snel mogelijk contact met u opnemen. Dat zal dan telefonisch of per mail gaan.
     <p>Uw naam:</p>
     <p><input type="text" name="name" value="Uw naam"></p>
 
     <p>Uw e-mailadres:</p>
     <p><input type="text" name="Uw adres"></p>
-    
 
     <p>Uw telefoonnummer: </p>
     <p><textarea name="comments" rows="1" cols="20">Uw telefoonnummer</textarea></p>
-
-  
-
+<p>Uw land: </p>
+    <select id="country" name="country">
+      <option value="australia">Australië</option>
+      <option value="nederland">Nederland</option>
+      <option value="vs">VS</option>
+      <option value="duitsland">Duitsland</option>
+      <option value="belgie">België</option>
+    </select>
 
     <p><input type="submit"></p>
 
