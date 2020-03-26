@@ -1,6 +1,6 @@
 body{
   margin:0; 
-  background-color:blue
+  background-color:rgb(241, 241, 241);
 }
 
 header{
@@ -15,7 +15,7 @@ nav{
   float:left;
   width:20vw;
   color:rgb(0, 0, 0);
-  background-color:blue ;
+  background-color: rgb(241, 241, 241);
   font-size: 20px;
 }
 
@@ -24,7 +24,7 @@ aside{
 }
 
 article{  
-  background-color:blue;
+  background-color:rgb(241, 241, 241);
   width:60vw;
   margin: 0 auto;
 }
