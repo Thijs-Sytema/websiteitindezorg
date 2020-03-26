@@ -13,7 +13,7 @@ header{
 nav{
   float:left;
   width:20vw;
-  color:black;
+  color:rgb(0, 0, 0);
   background-color:rgb(255, 255, 255);
   font-size: 20px;
 }
