@@ -54,4 +54,6 @@ footer{
 
 img{
   border-radius: 8%;
+  float: right;
+  margin: 20px;
 }
